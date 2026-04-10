@@ -4,7 +4,8 @@
 
 本仓库包含数据结构相关的学习笔记，主要以PDF格式提供。
 
-![数据结构笔记](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Data%20structure%20notes%20with%20diagrams%20and%20formulas%2C%20handwritten%20style%20on%20white%20paper%2C%20including%20tree%20structures%2C%20algorithms%2C%20and%20code%20snippets&image_size=landscape_16_9)
+![数据结构笔记]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc387789-08b7-4c6a-9b38-21d25a0c52f2" />
+
 
 ## 内容说明
 
