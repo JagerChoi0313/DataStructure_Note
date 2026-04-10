@@ -4,6 +4,8 @@
 
 本仓库包含数据结构相关的学习笔记，主要以PDF格式提供。
 
+![数据结构笔记](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Data%20structure%20notes%20with%20diagrams%20and%20formulas%2C%20handwritten%20style%20on%20white%20paper%2C%20including%20tree%20structures%2C%20algorithms%2C%20and%20code%20snippets&image_size=landscape_16_9)
+
 ## 内容说明
 
 - **数据结构.pdf**：包含数据结构课程的详细笔记，涵盖各种数据结构的概念、实现和应用。
